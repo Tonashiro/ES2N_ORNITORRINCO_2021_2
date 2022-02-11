@@ -1,2 +1,2 @@
-# Grupo 5 - Engenharia de Software II
-Repositório criado para organização do projeto de Engenharia de Software 2.
+# Grupo 2 - Engenharia de Software III
+Repositório criado para organização do projeto de Engenharia de Software 3.
